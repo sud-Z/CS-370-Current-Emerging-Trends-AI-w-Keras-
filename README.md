@@ -1,1 +1,6 @@
 # CS-370-Current-Emerging-Trends-AI-w-Keras-
+For this project, I was given the basic framework of a Deep Q-Learning  project meant to move an agent through a maze. We were required to implement the code to train and test this agent with the eventual goal of a 100%-win rate. However, this course also covered the ethics of modern computing and the implications this has in relation to AI and personal data. This included topics like Ethics by Design and RRI.
+</br></br>
+Ethics is one of the most hotly debated topics today in general. Even outside of the tech space, it seems that what needs to be considered, what is considered ethical, and what isn’t are breaking new ground constantly. However, in the tech space, we as computer scientists need to implement ethics checks and considerations into our work processes. As public trust in tech companies falls due to data mishandling and extremely well refined personalization systems, we need to ensure that our customer’s best interest is always in our minds. 
+</br></br>
+As a computer scientist, I like to approach problems from the bottom up. I like to implement all the bigger picture items first. I think that ethics can also be approached in this way. I think finding an ethics framework that works for your purposes is an important part of team creation. 
